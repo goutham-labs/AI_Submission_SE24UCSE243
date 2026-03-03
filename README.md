@@ -28,9 +28,8 @@ Uninformed search strategies systematically explore nodes in a search tree until
 3. Continue exploring until the goal state is found.
 4. Return the solution path (if exists).
 
-## How to Run
+## How to Run (Make sure python3 is installed)
 
-Make sure Python 3 is installed.
 python3 uninformed_search.py
 
 ## Sample Output
@@ -65,9 +64,8 @@ The system hides identities and processes responses through an interface layer.
 - **Machine Participant** – AI-generated responses  
 - **Evaluator Logic** – Determines indistinguishability  
 
-## How to Run
+## How to Run (Make sure Python 3 is installed)
 
-Make sure Python 3 is installed.
 python3 demo_tt.py
 
 ## Sample Output
@@ -99,9 +97,7 @@ The system generates a challenge that:
 - **User Input Handler** – Collects response  
 - **Verification Module** – Checks correctness  
 
-## How to Run
-
-Make sure Python 3 is installed.
+## How to Run (Make sure python3 is installed)
 python3 demo_captcha.py
 
 ## Sample Output
