@@ -1,4 +1,4 @@
-# Comparative Analysis of Uninformed Search Strategies  
+# Comparision Of All Variants of Uninformed Search 
 ## (Missionaries and Cannibals Problem)
 
 Uninformed search strategies explore the state space without using any heuristic or domain-specific knowledge. In this analysis, different uninformed search algorithms were applied to the Missionaries and Cannibals problem and evaluated based on their theoretical properties and practical performance.
