@@ -127,7 +127,7 @@ Generate Challenge
 → Verify Response  
 → Decision Output
 
-# CAPTCHA Implementation (Conceptual)
+# CAPTCHA Implementation
 
 The CAPTCHA implementation combines dynamic challenge generation with real-time behavioral monitoring to distinguish humans from bots.
 
