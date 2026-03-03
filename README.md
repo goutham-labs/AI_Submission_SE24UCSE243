@@ -64,7 +64,7 @@ The system hides identities and processes responses through an interface layer.
 - **Machine Participant** – AI-generated responses  
 - **Evaluator Logic** – Determines indistinguishability  
 
-## How to Run (Make sure Python 3 is installed)
+## How to Run (Make sure Python 3 is installed) or Use google collab
 
 python3 demo_tt.py
 
@@ -97,7 +97,7 @@ The system generates a challenge that:
 - **User Input Handler** – Collects response  
 - **Verification Module** – Checks correctness  
 
-## How to Run (Make sure python3 is installed)
+## How to Run (Make sure python3 is installed) or Use google collab
 python3 demo_captcha.py
 
 ## Sample Output
