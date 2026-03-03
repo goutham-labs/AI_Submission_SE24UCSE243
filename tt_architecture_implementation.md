@@ -1,6 +1,6 @@
 # Turing Test Architecture
 
-The Turing Test system evaluates whether a machine can imitate human behavior convincingly enough to be indistinguishable from a human during conversation.
+The Turing Test system evaluates whether a machine can imitate human behaviour convincingly enough to be indistinguishable from a human during conversation.
 
 The system ensures anonymity, structured communication, AI-driven responses, behavior normalization, and judge-based evaluation.
 
@@ -12,7 +12,7 @@ The system ensures anonymity, structured communication, AI-driven responses, beh
 - Route questions correctly
 - Collect and manage responses
 - Use Generative AI for machine replies
-- Normalize response behavior
+- Normalise response behaviour
 - Allow a human judge to make the final decision
 
 ---
@@ -23,8 +23,8 @@ The system ensures anonymity, structured communication, AI-driven responses, beh
 2. Hide Identity Layer  
 3. Conversation Manager Layer  
 4. Responsive Generation Layer  
-5. Humanization Layer  
-6. Synchronization Layer  
+5. Humanisation Layer  
+6. Synchronisation Layer  
 7. Evaluation Layer  
 8. Decision Layer  
 
@@ -134,7 +134,7 @@ The system records the decision for reporting and analysis.
 
 Start Session  
 → Assign Identities  
-→ Judge Asks Question  
+→ Judge Asks a Question  
 → Route to Human & AI  
 → Apply Humanization & Synchronization  
 → Display Responses  
@@ -187,7 +187,7 @@ Prompt style guidelines:
 To make AI responses realistic:
 
 - Introduce delay (2–4 seconds)
-- Vary delay based on response length
+- Vary the delay based on response length
 - Add slight grammar variations
 - Use informal expressions when appropriate
 
